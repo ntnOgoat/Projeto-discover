@@ -2,9 +2,7 @@
 
 Página com os meus links principais, feita no curso **Discover** da Rocketseat. A ideia é juntar GitHub, LinkedIn e e-mail em um lugar só, parecido com o Linktree.
 
-![Preview do DevLinks](preview.png)
 
-🔗 **Site no ar:** https://ntnogoat.github.io/devlinks
 
 ## O que tem no projeto
 
